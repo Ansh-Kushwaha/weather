@@ -13,7 +13,7 @@ The CLI Weather App is a simple command-line interface application built with Go
 Before running the CLI Weather App, you need to have the following:
 
 - Go (Golang) installed on your system.
-- An API key from OpenWeatherMap. You can sign up for a free API key at [Weather API](https://www.weatherapi.com/).
+- An API key from Weather API. You can sign up for a free API key at [Weather API](https://www.weatherapi.com/).
 
 ## Installation
 
@@ -24,7 +24,7 @@ git clone https://github.com/Ansh-Kushwaha/weather.git
 cd weather
 ```
 
-2. Create a file named `.env` in the root of the project and add your OpenWeatherMap API key as follows:
+2. Create a file named `.env` in the root of the project and add your Weather API key as follows:
 
 ```
 API_KEY=YOUR_WEATHER_API_KEY
