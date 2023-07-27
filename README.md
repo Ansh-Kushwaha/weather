@@ -27,7 +27,7 @@ cd weather
 2. Create a file named `.env` in the root of the project and add your OpenWeatherMap API key as follows:
 
 ```
-API_KEY=YOUR_OPENWEATHERMAP_API_KEY
+API_KEY=YOUR_WEATHER_API_KEY
 ```
 
 3. Build the application:
